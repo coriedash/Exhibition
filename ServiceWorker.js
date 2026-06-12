@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Exhibition-0.1.0";
 const contentToCache = [
     "Build/Exhibition_WEB.loader.js",
-    "Build/Exhibition_WEB.framework.js.unityweb",
-    "Build/Exhibition_WEB.data.unityweb",
-    "Build/Exhibition_WEB.wasm.unityweb",
+    "Build/Exhibition_WEB.framework.js",
+    "Build/Exhibition_WEB.data",
+    "Build/Exhibition_WEB.wasm",
     "TemplateData/style.css"
 
 ];
